@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png', //add image png or jpg
       tags: ['React', 'Omdbapi', 'Netlify'],
     source: 'https://github.com/giacomodibiagio/movie-search', //link to source code on github
-    visit: 'https://giacomo-di-biagio-movie-search.netlify.app/', //link to project deployed
+    visit: 'https://giacomodibiagiomoviesearch.netlify.app/', //link to project deployed
     id: 0,
   },
 ];
