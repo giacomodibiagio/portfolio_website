@@ -1,12 +1,21 @@
 export const projects = [
   {
     title: 'Movie search',
-    description: 'Just a simple movie search project to train React basics',
+    description: 'A simple movie search project to train React basics',
       image: '/images/1.png', //add image png or jpg
       tags: ['React', 'Omdbapi', 'Netlify'],
     source: 'https://github.com/giacomodibiagio/movie-search', //link to source code on github
     visit: 'https://giacomodibiagiomoviesearch.netlify.app/', //link to project deployed
     id: 0,
+  },
+  {
+    title: 'Angular exercises',
+    description: 'An app to train Angular, Typescript and Javascript mechanics. Click and train right away with the app code and a dedicated mock server!',
+    image: '/images/2.png', //add image png or jpg
+    tags: ['Angular', 'MockServer', 'Netlify'],
+    source: 'https://github.com/search?q=user%3Agiacomodibiagio+angular-exercises', //link to source code on github
+    visit: 'https://giacomodibiagioangularexercises.netlify.app/', //link to project deployed
+    id: 1,
   },
 ];
 
