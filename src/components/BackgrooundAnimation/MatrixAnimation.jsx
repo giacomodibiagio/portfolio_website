@@ -53,11 +53,11 @@ function MatrixAnimation() {
                 if (drops[i] * fontSize > canvas.offsetHeight && Math.random() > 0.975) {
                     drops[i] = 0;
                 }
-                drops[i]++;
+                drops[i]+= 0.2;
             }
 
             // Animate the matrix effect by calling this function again after a short delay
-            setTimeout(animate, 35);
+            setTimeout(animate, 30);
         }
 
         animate();
