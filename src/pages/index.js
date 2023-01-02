@@ -5,17 +5,17 @@ import Technologies from '../components/Technologies/Technologies';
 import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
-import MatrixAnimation from "../components/BackgrooundAnimation/MatrixAnimation";
+import HelloWorldRainBackground from "../components/BackgrooundAnimation/HelloWorldRainBackground";
 
 const Home = () => {
   return (
     <Layout>
-      <Section grid>
-        <Hero />
-        <MatrixAnimation />
-      </Section>
-      <Projects />
-      <Technologies />
+        <Section grid>
+            <Hero />
+            <HelloWorldRainBackground />
+        </Section>
+        <Projects />
+        <Technologies />
       <Timeline />
       <Acomplishments />
     </Layout>
