@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-          I’m Giacomo, a software developer based in Paris. After completing my studies in Law I developed a strong passion for software engineering and I decided to build a career in this field. With my leadership experience gathered over time, expecially working for Avanade and Tucoenergie, I am ready for a managerial or team-lead position where I can direct system testing and validation procedures, consult with departments or customers on project status and proposals, and work on technical issues including software system design and maintenance.
+          I’m Giacomo, a software developer based in Paris. After completing my studies in Law I developed a strong passion for software engineering and I decided to build a career in this field. With my leadership experience gathered over time I am ready for a managerial or team-lead position where I can direct system testing and validation procedures, consult with departments or customers on project status and proposals, and work on technical issues including software system design and maintenance.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
