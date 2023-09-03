@@ -23,6 +23,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Started my journey'},
   { year: 2020, text: 'Developed my first project'},
   { year: 2021, text: 'Started working for big companies'},
-  { year: 2022, text: 'Guided a team for the first time'},
-  { year: 2023, text: 'The journey continues...in Paris!'},
+  { year: 2022, text: 'Guided a team for the first time and taught 15 days classes of introduction to Angular for new developers'},
+  { year: 2023, text: 'Created my first homemade design system'},
 ];

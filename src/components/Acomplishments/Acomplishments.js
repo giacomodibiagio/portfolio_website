@@ -6,6 +6,8 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   { number: 20, text: 'Projects realized'},
   { number: 2, text: 'International projects with big comp'},
+  { number: 1, text: 'Team led'},
+  { number: 1, text: 'Desygn System realised'},
 ];
 
 const Acomplishments = () => (

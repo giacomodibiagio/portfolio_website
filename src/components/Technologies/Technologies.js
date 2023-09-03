@@ -19,8 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js and Angular 2+
+            Experience creating and migrating websites using React and Angular.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,8 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Java and Databases
+            Experience working with Javascript, Typescript, Node.js, Java (Spring Boot) and with databases (MySQL, PostgreSQL, Oracle, PGAdmin).
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,8 +41,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            Experience in designing and implementing design systems in collaboration with the UX/UI team using tools such as Figma.
           </ListParagraph>
         </ListContainer>
       </ListItem>
