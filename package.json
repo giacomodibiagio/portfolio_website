@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "yarn install": "yarn install"
+    "yarn-install": "yarn install",
+    "deploy-build": "next build",
+    "export": "next export"
   },
   "dependencies": {
     "next": "^13.5.8",
